@@ -1,0 +1,23 @@
+{
+  "id": "http://arxiv.org/abs/2602.17888v1",
+  "title": "Machine Learning Based Prediction of Surgical Outcomes in Chronic Rhinosinusitis from Clinical Data",
+  "summary": "Artificial intelligence (AI) has increasingly transformed medical prognostics by enabling rapid and accurate analysis across imaging and pathology. However, the investigation of machine learning predictions applied to prospectively collected, standardized data from observational clinical intervention trials remains underexplored, despite its potential to reduce costs and improve patient outcomes. Chronic rhinosinusitis (CRS), a persistent inflammatory disease of the paranasal sinuses lasting more than three months, imposes a substantial burden on quality of life (QoL) and societal cost. Although many patients respond to medical therapy, others with refractory symptoms often pursue surgical intervention. Surgical decision-making in CRS is complex, as it must weigh known procedural risks against uncertain individualized outcomes. In this study, we evaluated supervised machine learning models for predicting surgical benefit in CRS, using the Sino-Nasal Outcome Test-22 (SNOT-22) as the primary patient-reported outcome. Our prospectively collected cohort from an observational intervention trial comprised patients who all underwent surgery; we investigated whether models trained only on preoperative data could identify patients who might not have been recommended surgery prior to the procedure. Across multiple algorithms, including an ensemble approach, our best model achieved approximately 85% classification accuracy, providing accurate and interpretable predictions of surgical candidacy. Moreover, on a held-out set of 30 cases spanning mixed difficulty, our model achieved 80% accuracy, exceeding the average prediction accuracy of expert clinicians (75.6%), demonstrating its potential to augment clinical decision-making and support personalized CRS care.",
+  "authors": [
+    "Sayeed Shafayet Chowdhury",
+    "Karen D'Souza",
+    "V. Siva Kakumani",
+    "Snehasis Mukhopadhyay",
+    "Shiaofen Fang",
+    "Rodney J. Schlosser",
+    "Daniel M. Beswick",
+    "Jeremiah A. Alt",
+    "Jess C. Mace",
+    "Zachary M. Soler",
+    "Timothy L. Smith",
+    "Vijay R. Ramakrishnan"
+  ],
+  "published": "2026-02-19T22:47:50Z",
+  "link": "https://arxiv.org/abs/2602.17888v1",
+  "classified_at": "2026-02-23T02:37:51.963172",
+  "specialty": "other"
+}

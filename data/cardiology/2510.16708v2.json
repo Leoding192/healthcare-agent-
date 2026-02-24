@@ -1,0 +1,19 @@
+{
+  "id": "http://arxiv.org/abs/2510.16708v2",
+  "title": "Natural Language Processing for Cardiology: A Narrative Review",
+  "summary": "Cardiovascular diseases are becoming increasingly prevalent in modern society, with a profound impact on global health and well-being. These Cardiovascular disorders are complex and multifactorial, influenced by genetic predispositions, lifestyle choices, and diverse socioeconomic and clinical factors. Information about these interrelated factors is dispersed across multiple types of textual data, including patient narratives, medical records, and scientific literature. Natural language processing (NLP) has emerged as a powerful approach for analysing such unstructured data, enabling healthcare professionals and researchers to gain deeper insights that may transform the diagnosis, treatment, and prevention of cardiac disorders. This review provides a comprehensive overview of NLP research in cardiology from 2014 to 2025. We systematically searched six literature databases for studies describing NLP applications across a range of cardiovascular diseases. After a rigorous screening process, we identified 265 relevant articles. Each study was analysed across multiple dimensions, including NLP paradigms, cardiology-related tasks, disease types, and data sources. Our findings reveal substantial diversity within these dimensions, reflecting the breadth and evolution of NLP research in cardiology. A temporal analysis further highlights methodological trends, showing a progression from rule-based systems to large language models. Finally, we discuss key challenges and future directions, such as developing interpretable LLMs and integrating multimodal data. To the best of our knowledge, this review represents the most comprehensive synthesis of NLP research in cardiology to date.",
+  "authors": [
+    "Kailai Yang",
+    "Yan Leng",
+    "Xin Zhang",
+    "Tianlin Zhang",
+    "Paul Thompson",
+    "Bernard Keavney",
+    "Maciej Tomaszewski",
+    "Sophia Ananiadou"
+  ],
+  "published": "2025-10-19T04:26:51Z",
+  "link": "https://arxiv.org/abs/2510.16708v2",
+  "classified_at": "2026-02-23T02:36:52.593381",
+  "specialty": "cardiology"
+}

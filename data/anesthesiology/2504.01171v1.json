@@ -1,0 +1,15 @@
+{
+  "id": "http://arxiv.org/abs/2504.01171v1",
+  "title": "Addressing an extreme positivity violation to distinguish the causal effects of surgery and anesthesia via separable effects",
+  "summary": "The U.S. Food and Drug Administration has cautioned that prenatal exposure to anesthetic drugs during the third trimester may have neurotoxic effects; however, there is limited clinical evidence available to substantiate this recommendation. One major scientific question of interest is whether such neurotoxic effects might be due to surgery, anesthesia, or both. Isolating the effects of these two exposures is challenging because they are observationally equivalent, thereby inducing an extreme positivity violation. To address this, we adopt the separable effects framework of Robins and Richardson (2010) to identify the effect of anesthesia (alone) by blocking effects through variables that are assumed to completely mediate the causal pathway from surgery to the outcome. We apply this approach to data from the nationwide Medicaid Analytic eXtract (MAX) from 1999 through 2013, which linked 16,778,281 deliveries to mothers enrolled in Medicaid during pregnancy. Furthermore, we assess the sensitivity of our results to violations of our key identification assumptions.",
+  "authors": [
+    "Amy J. Pitts",
+    "Ling Guo",
+    "Caleb Ing",
+    "Caleb H. Miles"
+  ],
+  "published": "2025-04-01T20:28:07Z",
+  "link": "https://arxiv.org/abs/2504.01171v1",
+  "classified_at": "2026-02-23T02:37:38.257587",
+  "specialty": "anesthesiology"
+}

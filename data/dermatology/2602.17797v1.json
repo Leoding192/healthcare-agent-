@@ -1,0 +1,17 @@
+{
+  "id": "http://arxiv.org/abs/2602.17797v1",
+  "title": "Deep Learning for Dermatology: An Innovative Framework for Approaching Precise Skin Cancer Detection",
+  "summary": "Skin cancer can be life-threatening if not diagnosed early, a prevalent yet preventable disease. Globally, skin cancer is perceived among the finest prevailing cancers and millions of people are diagnosed each year. For the allotment of benign and malignant skin spots, an area of critical importance in dermatological diagnostics, the application of two prominent deep learning models, VGG16 and DenseNet201 are investigated by this paper. We evaluate these CNN architectures for their efficacy in differentiating benign from malignant skin lesions leveraging enhancements in deep learning enforced to skin cancer spotting. Our objective is to assess model accuracy and computational efficiency, offering insights into how these models could assist in early detection, diagnosis, and streamlined workflows in dermatology. We used two deep learning methods DenseNet201 and VGG16 model on a binary class dataset containing 3297 images. The best result with an accuracy of 93.79% achieved by DenseNet201. All images were resized to 224x224 by rescaling. Although both models provide excellent accuracy, there is still some room for improvement. In future using new datasets, we tend to improve our work by achieving great accuracy.",
+  "authors": [
+    "Mohammad Tahmid Noor",
+    "B. M. Shahria Alam",
+    "Tasmiah Rahman Orpa",
+    "Shaila Afroz Anika",
+    "Mahjabin Tasnim Samiha",
+    "Fahad Ahammed"
+  ],
+  "published": "2026-02-19T19:59:39Z",
+  "link": "https://arxiv.org/abs/2602.17797v1",
+  "classified_at": "2026-02-23T02:36:55.225735",
+  "specialty": "dermatology"
+}

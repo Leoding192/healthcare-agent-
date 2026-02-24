@@ -1,0 +1,16 @@
+{
+  "id": "http://arxiv.org/abs/2512.13629v1",
+  "title": "A comparative overview of win ratio and joint frailty models for recurrent event endpoints with applications in oncology and cardiology",
+  "summary": "Composite endpoints that combine recurrent non-fatal events with a terminal event are increasingly used in randomized clinical trials, yet conventional time-to-first event analyses may obscure clinically relevant information. We compared two statistical frameworks tailored to such endpoints: the joint frailty model (JFM) and the last-event assisted recurrent-event win ratio (LWR). The JFM specifies proportional hazards for the recurrent and terminal events linked through a shared frailty, yielding covariate-adjusted, component-specific hazard ratios that account for informative recurrences and dependence with death. The LWR is a nonparametric, prioritized pairwise comparison that incorporates all observed events over follow-up and summarizes a population-level benefit of treatment while respecting a pre-specified hierarchy between death and recurrences. We first assessed the performance of the methods using simulations that varied both the gamma-frailty variance and the event rates. Next, we investigated these two frameworks using practical clinical applications, to assess the performance of the methods and to estimate the sample size required to achieve adequate power. These two approaches delivered complementary insights. The JFM provided component-specific estimates, while the LWR led to a summary measure of treatment effect with direction. Power was systematically improved with JFM, which thus appeared as the most reliable approach for inference and sample size estimation. Methodological extensions of the LWR to appropriately handle censoring and to formalize causal estimands remain a promising direction for future research.",
+  "authors": [
+    "Adrien Orué",
+    "Derek Dinart",
+    "Laurent Billot",
+    "Carine Bellera",
+    "Virginie Rondeau"
+  ],
+  "published": "2025-12-15T18:26:18Z",
+  "link": "https://arxiv.org/abs/2512.13629v1",
+  "classified_at": "2026-02-23T02:36:50.407483",
+  "specialty": "other"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "http://arxiv.org/abs/2602.17592v1",
+  "title": "BMW: Bayesian Model-Assisted Adaptive Phase II Clinical Trial Design for Win Ratio Statistic",
+  "summary": "The win ratio (WR) statistic is increasingly used to evaluate treatment effects based on prioritized composite endpoints, yet existing Bayesian adaptive designs are not directly applicable because the WR is a summary statistic derived from pairwise comparisons and does not correspond to a unique data-generating mechanism. We propose a Bayesian model-assisted adaptive design for randomized phase II clinical trials based on the WR statistic, referred to as the BMW design. The proposed design uses the joint asymptotic distribution of WR test statistics across interim and final analyses to compute posterior probabilities without specifying the underlying outcome distribution. The BMW design allows flexible interim monitoring with early stopping for futility or superiority and is extended to jointly evaluate efficacy and toxicity using a graphical testing procedure that controls the family-wise error rate (FWER). Simulation studies demonstrate that the BMW design maintains valid type I error and FWER control, achieves power comparable to conventional methods, and substantially reduces expected sample size. An R Shiny application is provided to facilitate practical implementation.",
+  "authors": [
+    "Di Zhu",
+    "Yong Zang"
+  ],
+  "published": "2026-02-19T18:16:16Z",
+  "link": "https://arxiv.org/abs/2602.17592v1",
+  "classified_at": "2026-02-23T02:37:56.383259",
+  "specialty": "other"
+}

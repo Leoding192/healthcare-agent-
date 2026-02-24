@@ -1,0 +1,13 @@
+{
+  "id": "http://arxiv.org/abs/2507.19532v1",
+  "title": "Whale Optimization Algorithms based fractional order fuzzy PID controller for Depth of Anesthesia",
+  "summary": "One of the most important surgical factors is Depth of Anesthesia (DOA) control in patients. The main problem is to overcome the uncertainty and nonlinearity of the system, due to different physiological parameters of the patient's body and maintain DOA of patients in desired range during surgery. This study demonstrates a fractional order fuzzy PID controller (FOFPID) and fractional order PID controller (FOPID) to the problem. The Whale Optimization Algorithms (WOA) is used to optimized the parameters of proposed controllers. The orders of derivative and integral fractional controller is achieved by WOA. The results indicate that FOFPID has a better performance than FOPID. To check the performance of the controllers in presence of uncertainty, physiological logical model of 8 patients has been investigated. The modeling is based on Pharmacodynamic and Pharmacokinetic model. The results show the performance of the proposed method.",
+  "authors": [
+    "Amin Behboudifar",
+    "Chen Jing"
+  ],
+  "published": "2025-07-21T18:38:44Z",
+  "link": "https://arxiv.org/abs/2507.19532v1",
+  "classified_at": "2026-02-23T02:37:33.614408",
+  "specialty": "anesthesiology"
+}

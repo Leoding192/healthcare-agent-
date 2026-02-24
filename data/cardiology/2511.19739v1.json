@@ -1,0 +1,13 @@
+{
+  "id": "http://arxiv.org/abs/2511.19739v1",
+  "title": "Comparative Analysis of LoRA-Adapted Embedding Models for Clinical Cardiology Text Representation",
+  "summary": "Domain-specific text embeddings are critical for clinical natural language processing, yet systematic comparisons across model architectures remain limited. This study evaluates ten transformer-based embedding models adapted for cardiology through Low-Rank Adaptation (LoRA) fine-tuning on 106,535 cardiology text pairs derived from authoritative medical textbooks. Results demonstrate that encoder-only architectures, particularly BioLinkBERT, achieve superior domain-specific performance (separation score: 0.510) compared to larger decoder-based models, while requiring significantly fewer computational resources. The findings challenge the assumption that larger language models necessarily produce better domain-specific embeddings and provide practical guidance for clinical NLP system development. All models, training code, and evaluation datasets are publicly available to support reproducible research in medical informatics.",
+  "authors": [
+    "Richard J. Young",
+    "Alice M. Matthews"
+  ],
+  "published": "2025-11-24T21:57:09Z",
+  "link": "https://arxiv.org/abs/2511.19739v1",
+  "classified_at": "2026-02-23T02:36:50.928899",
+  "specialty": "cardiology"
+}

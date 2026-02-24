@@ -1,0 +1,19 @@
+{
+  "id": "http://arxiv.org/abs/2601.14084v1",
+  "title": "DermaBench: A Clinician-Annotated Benchmark Dataset for Dermatology Visual Question Answering and Reasoning",
+  "summary": "Vision-language models (VLMs) are increasingly important in medical applications; however, their evaluation in dermatology remains limited by datasets that focus primarily on image-level classification tasks such as lesion recognition. While valuable for recognition, such datasets cannot assess the full visual understanding, language grounding, and clinical reasoning capabilities of multimodal models. Visual question answering (VQA) benchmarks are required to evaluate how models interpret dermatological images, reason over fine-grained morphology, and generate clinically meaningful descriptions. We introduce DermaBench, a clinician-annotated dermatology VQA benchmark built on the Diverse Dermatology Images (DDI) dataset. DermaBench comprises 656 clinical images from 570 unique patients spanning Fitzpatrick skin types I-VI. Using a hierarchical annotation schema with 22 main questions (single-choice, multi-choice, and open-ended), expert dermatologists annotated each image for diagnosis, anatomic site, lesion morphology, distribution, surface features, color, and image quality, together with open-ended narrative descriptions and summaries, yielding approximately 14.474 VQA-style annotations. DermaBench is released as a metadata-only dataset to respect upstream licensing and is publicly available at Harvard Dataverse.",
+  "authors": [
+    "Abdurrahim Yilmaz",
+    "Ozan Erdem",
+    "Ece Gokyayla",
+    "Ayda Acar",
+    "Burc Bugra Dagtas",
+    "Dilara Ilhan Erdil",
+    "Gulsum Gencoglan",
+    "Burak Temelkuran"
+  ],
+  "published": "2026-01-20T15:44:57Z",
+  "link": "https://arxiv.org/abs/2601.14084v1",
+  "classified_at": "2026-02-23T02:37:04.671960",
+  "specialty": "dermatology"
+}

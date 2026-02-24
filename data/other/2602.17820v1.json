@@ -1,0 +1,17 @@
+{
+  "id": "http://arxiv.org/abs/2602.17820v1",
+  "title": "Scaling and tuning to criticality in resting-state human magnetoencephalography",
+  "summary": "Scaling laws in biological neural networks have long been investigated. From 1/f noise to neuronal avalanches, evidence of scaling in brain activity has been increasingly linked to tuning to or near criticality. The concept of scaling is intimately related to the renormalization group (RG), in essence providing coarse-grained, simplified descriptions that generalize to classes of diverse physical systems. Following the RG idea, a coarse-graining scheme has recently been proposed for populations of real neurons, and scaling behaviors in collective quantities have been reported in the hippocampus and in different areas of the rat cortex. To bridge the gap between neuronal population scales and species, here we consider large-scale, electrophysiological recordings of human brain activity in the awake resting-state. We demonstrate robust scaling behaviors of collective dynamics across coarse-graining scales, with exponents close to those measured in populations of spiking neurons. Further, we show that dynamics of neuronal avalanches, scale-free cascades of neural activity, are invariant under the proposed coarse-graining approach. Simulations of a non-equilibrium adaptive Ising model inferred from data and apt to reproduce a large repertoire of resting-state brain dynamics indicate that the scaling behaviors of the resting human brain activity emerge close to criticality and depend on the excitation/inhibition (E/I) balance of the network. While extending the range of validity of previous observations at small spatial scales and pointing to common scaling laws in mammals, the results open the way to a robust (currently missing) non-invasive approach to estimate the E/I balance, a key quantity in neuroscience research.",
+  "authors": [
+    "Irem Topal",
+    "Anna Poggialini",
+    "Marco Dal Maschio",
+    "Daniele De Martino",
+    "Oren Shriki",
+    "Fabrizio Lombardi"
+  ],
+  "published": "2026-02-19T20:39:06Z",
+  "link": "https://arxiv.org/abs/2602.17820v1",
+  "classified_at": "2026-02-23T02:36:44.979991",
+  "specialty": "other"
+}

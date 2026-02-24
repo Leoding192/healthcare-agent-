@@ -1,0 +1,17 @@
+{
+  "id": "http://arxiv.org/abs/2512.14160v2",
+  "title": "Forecasting Excessive Anesthesia Depth Using EEG α-Spindle Dynamics and Machine Learning",
+  "summary": "Objectives. Accurately predicting transitions to anesthetic drugs overdosage is a critical challenge in general anesthesia as it requires the identification of EEG indicators relevant for anticipating the evolution of the depth of anesthesia. Methods. In this study, we introduce a real-time, data-driven framework based on alpha spindle dynamics extracted from frontal EEG recordings. Using Empirical Mode Decomposition, we segment transient alpha spindle events and extract statistical features such as amplitude, duration, frequency, and suppression intervals. We apply these features to train a Light Gradient Boosting Machine, LGBM, classifier on a clinical EEG dataset spanning induction, maintenance, and emergence phases of general anesthesia. Results. Our model accurately classifies anesthesia phases with over 80 percent accuracy and anticipates the onset of isoelectric suppression, a marker of anesthetic drugs overdosage, with 96 percent accuracy up to 90 seconds in advance. Conclusion. The spindle-based metrics provides a non-invasive, interpretable, and predictive approach. This real-time method can be used to forecast unintentional anesthetic drugs overdosage, enabling proactive anesthesia management based solely on EEG signals. Significance. This new method is the first to provide a way to prevent too deep anesthesia and its consequence for the well-being of patients after the recovery from anesthesia.",
+  "authors": [
+    "Christophe Sun",
+    "Pierre-Olivier Michel",
+    "François David",
+    "Nathalie Rouach",
+    "Dan Longrois",
+    "David Holcman"
+  ],
+  "published": "2025-12-16T07:46:27Z",
+  "link": "https://arxiv.org/abs/2512.14160v2",
+  "classified_at": "2026-02-23T02:37:19.288149",
+  "specialty": "anesthesiology"
+}

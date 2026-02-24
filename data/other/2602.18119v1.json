@@ -1,0 +1,23 @@
+{
+  "id": "http://arxiv.org/abs/2602.18119v1",
+  "title": "RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis",
+  "summary": "Histopathology, the current gold standard for cancer diagnosis, involves the manual examination of tissue samples after chemical staining, a time-consuming process requiring expert analysis. Raman spectroscopy is an alternative, stain-free method of extracting information from samples. Using nnU-Net, we trained a segmentation model on a novel dataset of spatial Raman spectra aligned with tumour annotations, achieving a mean foreground Dice score of 80.9%, surpassing previous work. Furthermore, we propose a novel, interpretable, prototype-based architecture called RamanSeg. RamanSeg classifies pixels based on discovered regions of the training set, generating a segmentation mask. Two variants of RamanSeg allow a trade-off between interpretability and performance: one with prototype projection and another projection-free version. The projection-free RamanSeg outperformed a U-Net baseline with a mean foreground Dice score of 67.3%, offering a meaningful improvement over a black-box training approach.",
+  "authors": [
+    "Chris Tomy",
+    "Mo Vali",
+    "David Pertzborn",
+    "Tammam Alamatouri",
+    "Anna Mühlig",
+    "Orlando Guntinas-Lichius",
+    "Anna Xylander",
+    "Eric Michele Fantuzzi",
+    "Matteo Negro",
+    "Francesco Crisafi",
+    "Pietro Lio",
+    "Tiago Azevedo"
+  ],
+  "published": "2026-02-20T10:18:27Z",
+  "link": "https://arxiv.org/abs/2602.18119v1",
+  "classified_at": "2026-02-23T02:37:42.849479",
+  "specialty": "other"
+}

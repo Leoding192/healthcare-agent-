@@ -1,0 +1,16 @@
+{
+  "id": "http://arxiv.org/abs/2510.17437v1",
+  "title": "Multilingual Clinical NER for Diseases and Medications Recognition in Cardiology Texts using BERT Embeddings",
+  "summary": "The rapidly increasing volume of electronic health record (EHR) data underscores a pressing need to unlock biomedical knowledge from unstructured clinical texts to support advancements in data-driven clinical systems, including patient diagnosis, disease progression monitoring, treatment effects assessment, prediction of future clinical events, etc. While contextualized language models have demonstrated impressive performance improvements for named entity recognition (NER) systems in English corpora, there remains a scarcity of research focused on clinical texts in low-resource languages. To bridge this gap, our study aims to develop multiple deep contextual embedding models to enhance clinical NER in the cardiology domain, as part of the BioASQ MultiCardioNER shared task. We explore the effectiveness of different monolingual and multilingual BERT-based models, trained on general domain text, for extracting disease and medication mentions from clinical case reports written in English, Spanish, and Italian. We achieved an F1-score of 77.88% on Spanish Diseases Recognition (SDR), 92.09% on Spanish Medications Recognition (SMR), 91.74% on English Medications Recognition (EMR), and 88.9% on Italian Medications Recognition (IMR). These results outperform the mean and median F1 scores in the test leaderboard across all subtasks, with the mean/median values being: 69.61%/75.66% for SDR, 81.22%/90.18% for SMR, 89.2%/88.96% for EMR, and 82.8%/87.76% for IMR.",
+  "authors": [
+    "Manuela Daniela Danu",
+    "George Marica",
+    "Constantin Suciu",
+    "Lucian Mihai Itu",
+    "Oladimeji Farri"
+  ],
+  "published": "2025-10-20T11:26:22Z",
+  "link": "https://arxiv.org/abs/2510.17437v1",
+  "classified_at": "2026-02-23T02:36:52.169791",
+  "specialty": "cardiology"
+}

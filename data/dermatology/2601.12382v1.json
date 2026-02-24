@@ -1,0 +1,14 @@
+{
+  "id": "http://arxiv.org/abs/2601.12382v1",
+  "title": "A Hierarchical Benchmark of Foundation Models for Dermatology",
+  "summary": "Foundation models have transformed medical image analysis by providing robust feature representations that reduce the need for large-scale task-specific training. However, current benchmarks in dermatology often reduce the complex diagnostic taxonomy to flat, binary classification tasks, such as distinguishing melanoma from benign nevi. This oversimplification obscures a model's ability to perform fine-grained differential diagnoses, which is critical for clinical workflow integration. This study evaluates the utility of embeddings derived from ten foundation models, spanning general computer vision, general medical imaging, and dermatology-specific domains, for hierarchical skin lesion classification. Using the DERM12345 dataset, which comprises 40 lesion subclasses, we calculated frozen embeddings and trained lightweight adapter models using a five-fold cross-validation. We introduce a hierarchical evaluation framework that assesses performance across four levels of clinical granularity: 40 Subclasses, 15 Main Classes, 2 and 4 Superclasses, and Binary Malignancy. Our results reveal a \"granularity gap\" in model capabilities: MedImageInsights achieved the strongest overall performance (97.52% weighted F1-Score on Binary Malignancy detection) but declined to 65.50% on fine-grained 40-class subtype classification. Conversely, MedSigLip (69.79%) and dermatology-specific models (Derm Foundation and MONET) excelled at fine-grained 40-class subtype discrimination while achieving lower overall performance than MedImageInsights on broader classification tasks. Our findings suggest that while general medical foundation models are highly effective for high-level screening, specialized modeling strategies are necessary for the granular distinctions required in diagnostic support systems.",
+  "authors": [
+    "Furkan Yuceyalcin",
+    "Abdurrahim Yilmaz",
+    "Burak Temelkuran"
+  ],
+  "published": "2026-01-18T12:38:15Z",
+  "link": "https://arxiv.org/abs/2601.12382v1",
+  "classified_at": "2026-02-23T02:37:09.468247",
+  "specialty": "dermatology"
+}

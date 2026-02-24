@@ -1,0 +1,15 @@
+{
+  "id": "http://arxiv.org/abs/2512.08452v1",
+  "title": "MPC for tracking for anesthesia dynamics",
+  "summary": "In this paper, an MPC for tracking formulation is proposed for the control of anesthesia dynamics. It seamlessly enables the optimization of the steady-states pair that is not unique due to the MISO nature of the model. Anesthesia dynamics is a multi-time scale system with two types of states characterized, respectively, by fast and slow dynamics. In anesthesia control, the output equation depends only on the fast dynamics. Therefore, the slow states can be treated as disturbances, and compensation terms can be introduced. Subsequently, the system can be reformulated as a nominal one allowing the design of an MPC for tracking strategy. The presented framework ensures recursive feasibility and asymptotic stability, through the design of appropriate terminal ingredients in the MPC for tracking framework. The controller performance is then assessed on a patient in a simulation environment.",
+  "authors": [
+    "Maxim Raymond",
+    "Kaouther Moussa",
+    "Mirko Fiacchini",
+    "Jimmy Lauber"
+  ],
+  "published": "2025-12-09T10:24:45Z",
+  "link": "https://arxiv.org/abs/2512.08452v1",
+  "classified_at": "2026-02-23T02:37:24.157047",
+  "specialty": "anesthesiology"
+}
